@@ -4,7 +4,6 @@
 
   const navLinks = [
     { label: 'About', href: '#about' },
-    { label: 'Gallery', href: '#gallery' },
     { label: 'Specialties', href: '#specialties' },
     { label: 'Contact', href: '#contact' },
   ];
@@ -32,7 +31,7 @@
           {link.label}
         </a>
       {/each}
-      <a href="#contact" class="btn btn-primary nav-cta" onclick={closeMobileMenu}>
+      <a href="https://care.headway.co/providers/mia-dessesaure" class="btn btn-primary nav-cta" target="_blank" rel="noopener">
         Schedule Consultation
       </a>
     </div>

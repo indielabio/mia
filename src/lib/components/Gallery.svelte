@@ -78,6 +78,7 @@
     <p>Creating a warm, inviting environment where you can feel comfortable and safe.</p>
   </div>
 
+  <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
   <div
     class="gallery-carousel"
     class:visible
