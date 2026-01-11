@@ -26,7 +26,7 @@
       </p>
 
       <div class="hero-cta">
-        <a href="https://care.headway.co/providers/mia-dessesaure" class="btn btn-primary" target="_blank" rel="noopener">Schedule Consultation</a>
+        <a href="https://care.headway.co/providers/mia-dessesaure" class="btn btn-primary" target="_blank" rel="noopener">Schedule Appointment</a>
         <a href="#about" class="btn btn-secondary">Learn More</a>
       </div>
     </div>
