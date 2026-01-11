@@ -32,7 +32,7 @@
         </a>
       {/each}
       <a href="https://care.headway.co/providers/mia-dessesaure" class="btn btn-primary nav-cta" target="_blank" rel="noopener">
-        Schedule Consultation
+        Schedule Appointment
       </a>
     </div>
 
